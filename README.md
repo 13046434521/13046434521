@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github统计](https://stats.justsong.cn/api/github?username=13046434521&theme=dark&lang=zh-CN)
+<!--![github统计](https://stats.justsong.cn/api/github?username=13046434521&theme=dark&lang=zh-CN) -->
+![github统计](https://stats.justsong.cn/api/github?username=13046434521&lang=zh-CN)
