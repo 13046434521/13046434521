@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=Hello --- 你好!&fontSize=50&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=Hello+++你好!&fontSize=50&animation=twinkling">
 </p>
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
