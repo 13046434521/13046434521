@@ -43,13 +43,11 @@ Here are some ideas to get you started:
 
 
 <!-- https://github.com/badges/shields -->
-<p align="center">
-<a href="https://github.com/1304643.4521"><img src="https://img.shields.io/badge/GitHub-13046434521-blue?logo=github" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=Xiaokang2022&abbreviated=true&color=yellow" />
-</p>
-<a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-可乐儿加冰?logo=bilibili" /></a>
+ <p align="center">
+<a href="https://github.com/13046434521"><img src="https://img.shields.io/badge/GitHub-13046434521-white?logo=github" /></a>
+<a href="[https://space.bilibili.com/68406011](https://juejin.cn/user/1081575170909246)"><img src="https://img.shields.io/badge/掘金-可乐儿加冰-white?logo=juejin" /></a>
+<a href="(https://www.jianshu.com/u/c1250a30d7d2)"><img src="https://img.shields.io/badge/简书-可乐儿加冰-white?logo=jianshu" /></a>
+<a href="https://space.bilibili.com/68406011"><img src="https://img.shields.io/badge/哔哩哔哩-可乐儿加冰-white?logo=bilibili" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=13046434521&abbreviated=true&color=yellow" />
 </p>
- 
