@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **13046434521/13046434521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,11 +15,11 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=你好!&fontSize=50&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=Hello --- 你好!&fontSize=50&animation=twinkling">
 </p>
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=欢迎来到我的Github主页;Welcome+to+my+GitHub+profile+page!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=500&center=true&vCenter=true&random=false&width=600&lines=欢迎来到我的Github主页;Welcome+to+my+GitHub+profile+page!" />
 </p>
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -33,10 +31,7 @@ Here are some ideas to get you started:
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=13046434521&theme=github-compact&hide_border=true&area=true">
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=13046434521&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13046434521&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=java,cpp,kotlin,ts,md&theme=light" />
 </p>
@@ -45,8 +40,8 @@ Here are some ideas to get you started:
 <!-- https://github.com/badges/shields -->
  <p align="center">
 <a href="https://github.com/13046434521"><img src="https://img.shields.io/badge/GitHub-13046434521-white?logo=github" /></a>
-<a href="[https://space.bilibili.com/68406011](https://juejin.cn/user/1081575170909246)"><img src="https://img.shields.io/badge/掘金-可乐儿加冰-white?logo=juejin" /></a>
-<a href="(https://www.jianshu.com/u/c1250a30d7d2)"><img src="https://img.shields.io/badge/简书-可乐儿加冰-white?logo=jianshu" /></a>
+<a href="https://juejin.cn/user/1081575170909246"><img src="https://img.shields.io/badge/掘金-可乐儿加冰-white?logo=juejin" /></a>
+<a href="https://www.jianshu.com/u/c1250a30d7d2"><img src="https://img.shields.io/badge/简书-可乐儿加冰-white?logo=jianshu" /></a>
 <a href="https://space.bilibili.com/68406011"><img src="https://img.shields.io/badge/哔哩哔哩-可乐儿加冰-white?logo=bilibili" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=13046434521&abbreviated=true&color=yellow" />
